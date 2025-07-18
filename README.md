@@ -32,8 +32,8 @@ Sempre procuro aplicar boas práticas de desenvolvimento e escrever um código l
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario-aqui)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/hjoao12)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaohenriquesilvadev)  
 
 ---
 
