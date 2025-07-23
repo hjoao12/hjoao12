@@ -1,47 +1,71 @@
-# 👋 BEM-VINDO AO MEU REPOSITÓRIO!
 
-## Eu sou João Henrique!
+# SEJA BEM VINDO AO MEU PORTFÓLIO
+<h1 align="center"> João Henrique da Silva</h1>
 
-:computer: Desenvolvedor Front-End  
-:house_with_garden: Recife - PE, Brasil  
-:books: Apaixonado por tecnologia, estou sempre aprendendo novas ferramentas e aprimorando minhas habilidades.  
-:rocket: Busco desenvolver projetos impactantes e crescer profissionalmente na área de desenvolvimento web.
+<p align="center">
+  <i>Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas | Entusiasta em Ciência de Dados</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hjoao12&style=flat-square&color=blue" alt="Visualizações no perfil"/>
+  <img src="https://img.shields.io/github/followers/hjoao12?style=flat-square" alt="Seguidores no GitHub"/>
+  <img src="https://img.shields.io/github/stars/hjoao12?style=flat-square" alt="Stars recebidas"/>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+<p align="center">
+Sou apaixonado por tecnologia e inovação. Atualmente atuo como <strong>Desenvolvedor Backend</strong>, com conhecimentos em <strong>Front-End</strong> e fundamentos de dados.<br/>
+Estudo <strong>Análise e Desenvolvimento de Sistemas</strong> e estou sempre buscando novos desafios para evoluir como profissional e como pessoa.
+</p>
+
+<p align="center">
+🌍 Recife - PE, Brasil  
+<br/>
+📚 Sempre aprendendo novas ferramentas e boas práticas  
+<br/>
+🚀 Buscando criar projetos com impacto real e código de qualidade
+</p>
 
 ---
 
 ## 🚀 Tecnologias que utilizo
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python,nodejs,nest,postgresql,mysql,git,github,linux,vscode" alt="Tech Stack"/>
+  </a>
+</p>
 
 ---
 
-## 📈 Sobre meus projetos
+## 📂 Meus Projetos
 
-Aqui você encontra repositórios dos meus projetos pessoais, estudos e criações que desenvolvi durante cursos e desafios.  
-Sempre procuro aplicar boas práticas de desenvolvimento e escrever um código limpo, legível e eficiente.
+<p align="center">
+  Aqui você encontra projetos pessoais, desafios e estudos práticos que desenvolvi durante cursos e experiências.<br/>
+  Sempre aplicando boas práticas de desenvolvimento, foco na legibilidade e performance.
+</p>
 
 ---
+
 ## 📫 Contato
 
-<a href="https://github.com/hjoao12" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/joaohenriquesilvadev" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+<p align="center">
+  <a href="https://github.com/hjoao12" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/joaohenriquesilvadev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
 ## 💬 Obrigado por visitar!
 
-Se gostou de algum projeto, fique à vontade para deixar uma ⭐ ou entrar em contato para trocar ideias!
+<p align="center">
+Se gostou de algum projeto, deixe uma ⭐ ou entre em contato para trocarmos ideias.<br/>
+A colaboração é o caminho para o crescimento! 🤝🚀
+</p>
