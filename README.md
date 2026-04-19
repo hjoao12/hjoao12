@@ -1,6 +1,6 @@
 
 # SEJA BEM VINDO AO MEU PORTFÓLIO
-<h1 align="center"> João Henrique da Silva</h1>
+<h1 align="center"> João Henrique</h1>
 
 <p align="center">
   <i>Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas | Entusiasta em Ciência de Dados</i>
