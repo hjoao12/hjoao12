@@ -1,9 +1,7 @@
-
-# SEJA BEM VINDO AO MEU PORTFÓLIO
 <h1 align="center"> João Henrique</h1>
 
 <p align="center">
-  <i>Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas | Entusiasta em Ciência de Dados</i>
+  <i>Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas | Entusiasta em Suporte em TI</i>
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@ Estudo <strong>Análise e Desenvolvimento de Sistemas</strong> e estou sempre bu
 </p>
 
 <p align="center">
-🌍 Recife - PE, Brasil  
+🌍 Pernambuco, Brasil  
 <br/>
 📚 Sempre aprendendo novas ferramentas e boas práticas  
 <br/>
