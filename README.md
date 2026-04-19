@@ -4,12 +4,6 @@
   <i>Desenvolvedor Backend | Cursando Análise e Desenvolvimento de Sistemas | Entusiasta em Suporte em TI</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hjoao12&style=flat-square&color=blue" alt="Visualizações no perfil"/>
-  <img src="https://img.shields.io/github/followers/hjoao12?style=flat-square" alt="Seguidores no GitHub"/>
-  <img src="https://img.shields.io/github/stars/hjoao12?style=flat-square" alt="Stars recebidas"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
