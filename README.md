@@ -23,10 +23,10 @@ Fã assíduo pelos projetos de Software Livre e código aberto.
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaohenriquesilvadev" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/joaohenriquesilvadev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:seu-email@dominio.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
