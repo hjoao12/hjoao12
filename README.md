@@ -26,7 +26,7 @@ Fã assíduo pelos projetos de Software Livre e código aberto.
   <a href="https://www.linkedin.com/in/joaohenriquesilvadev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:seu-email@dominio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -69,6 +69,3 @@ Fã assíduo pelos projetos de Software Livre e código aberto.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hjoao12&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjoao12&layout=compact&langs_count=7&theme=radical"/>
 </p>
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Um%20array%20vale%20mais%20que%20mil%20variáveis&fontSize=45&section=footer&fontAlignY=60">
