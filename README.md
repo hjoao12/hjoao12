@@ -63,10 +63,12 @@ Fã assíduo pelos projetos de Software Livre e código aberto.
 * 🐧 **Open Source:** Contribuindo e documentando projetos de código aberto.
 
 ---
-
 ## Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hjoao12&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjoao12&layout=compact&langs_count=7&theme=radical"/>
 </p>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Um%20array%20vale%20mais%20que%20mil%20variáveis&fontSize=45&section=footer&fontAlignY=60">
