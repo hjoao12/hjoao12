@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=João%20Henrique&textBg=false&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=João%20Henrique">
   <img src="https://img.shields.io/badge/Open%20Source-Ativo-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cybersecurity-Interesse-red?style=for-the-badge">
 </p>
