@@ -1,7 +1,7 @@
 <h1 align="center">João Henrique</h1>
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=João%20%20Henrique
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=João%20%20Henrique">
   <img src="https://img.shields.io/badge/Open%20Source-Ativo-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cybersecurity-Interesse-red?style=for-the-badge">
 </p>
